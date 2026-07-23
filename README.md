@@ -1,4 +1,4 @@
-# Trial-wise fMRI Pattern-Change Analysis Pipeline
+# Trial-wise fMRI Pattern Change Analysis Pipeline
 
 A portable MATLAB and Python workflow for trial-wise fMRI analysis in probabilistic reversal learning. The repository covers cue- and outcome-locked least squares separate (LSS) estimation, searchlight-based multivoxel pattern change mapping, learning stage organization, ROI-informed voxel-wise regression, reinforcement learning analyses, and SPM12 second-level statistics.
 
